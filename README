@@ -1,0 +1,47 @@
+# GlobeTrotter Travel Planner
+
+## Project Description
+A travel planning web application that helps users select countries, cities, and get suggestions for hotels, activities, and foods.
+
+## Tech Stack
+- Frontend: React
+- Backend: Node.js, Express
+- Database: MySQL (demo data used)
+
+## How to Run Backend
+1. Go to backend folder
+2. Run `npm install`
+3. Run `node server.js`
+4. Server runs on http://localhost:5000
+
+## How to Run Frontend
+1. Go to frontend folder
+2. Run `npm install`
+3. Run `npm start`
+4. App runs on http://localhost:3000
+
+## API Endpoints
+- GET /api/countries
+- GET /api/cities/country/:countryId
+- GET /api/suggestions/city/:cityId
+- GET /api/hotels
+- GET /api/foods
+
+## Contributors
+- Member 1 – Backend
+- Member 2 – Frontend
+- Member 3 – UI & Design
+- Member 4 – Testing & Documentation
+
+
+//API TESTING:
+![alt text](<Screenshot 2026-01-03 173801 (1).png>)
+![alt text](<Screenshot 2026-01-03 142250.png>)
+![alt text](<Screenshot 2026-01-03 173745.png>)
+![alt text](<Screenshot 2026-01-03 131321.png>)
+![alt text](<Screenshot 2026-01-03 173715.png>)
+![alt text](<Screenshot 2026-01-03 173551.png>)
+![alt text](image.png)
+![
+    
+](image-1.png)
